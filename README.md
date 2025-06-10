@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=5f4b8b&text=BEARS&height=200&animation=fadeIn&fontColor=ddd8ea)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15&text=BEARS&height=200&animation=fadeIn&fontColor=ffffff)
 
 2022년 2학기 CCIT 융합전공 기업수주형 프로젝트
 
@@ -38,7 +38,7 @@
 ### 📚&nbsp;Tech Stack
 
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt=""/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt=""/>
 </p>
 <p>
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt=""/>
